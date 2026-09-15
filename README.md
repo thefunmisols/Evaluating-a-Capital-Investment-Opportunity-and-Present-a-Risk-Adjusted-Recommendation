@@ -12,7 +12,7 @@ The analysis combined **financial performance, risk assessment, macroeconomic co
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective was to answer a key capital allocation question:
 
@@ -37,7 +37,7 @@ The final recommendation was designed to provide management with a clear basis f
 
 ---
 
-# 📊 Step 1 — Annual Operating Profit Analysis
+# Step 1 — Annual Operating Profit Analysis
 
 I calculated the annual operating profit for each investment option using:
 
@@ -57,7 +57,7 @@ For this reason, I compared **profitability and risk alongside headline revenue 
 
 ---
 
-# 📈 Step 2 — Investment Comparison
+# Step 2 — Investment Comparison
 
 I developed an investment comparison table to evaluate the two alternatives side by side.
 
@@ -71,9 +71,9 @@ This structure reflects how capital investment decisions should be presented to 
 
 ---
 
-# ⚠️ Step 3 — Risk Matrix
+# Step 3 — Risk Matrix
 
-Financial returns tell only part of the investment story.
+A risk matrix is a tool that is normally used to assess the level of risk and assist the decision-making process. Financial returns tell only part of the investment story. 
 
 I therefore developed a qualitative risk matrix covering three major risk categories:
 
@@ -93,13 +93,13 @@ Each investment was classified as:
 
 **🟢 Low Risk | 🟡 Moderate Risk | 🔴 High Risk**
 
-<img width="1358" height="636" alt="Investment Risk Matrix" src="https://github.com/user-attachments/assets/9205331c-7271-4d60-81da-2e6fb35559c1" />
+<img width="1361" height="642" alt="tgr" src="https://github.com/user-attachments/assets/edf3687e-59e5-403d-aad7-5907c84198d5" />
 
 This ensured that the recommendation considered both **expected return and downside exposure**.
 
 ---
 
-# 📉 Value at Risk & Downside Thinking
+# Value at Risk & Downside Thinking
 
 An important part of the analysis was considering **Value at Risk (VaR)** as a framework for understanding potential downside exposure.
 
@@ -115,7 +115,7 @@ This risk-adjusted perspective is particularly important when management is allo
 
 ---
 
-# 👔 Step 4 — Executive Recommendation to the CFO
+# Step 4 — Executive Recommendation to the CFO
 
 After completing the financial and risk analysis, I prepared a **350–400 word executive recommendation** addressed to the CFO.
 
@@ -135,7 +135,7 @@ This prevented the investment decision from becoming a simple "choose the highes
 
 ---
 
-# 🌍 Step 5 — KPI & Economic Signal Analysis
+# Step 5 — KPI & Economic Signal Analysis
 
 Capital budgeting does not happen in isolation from the economy.
 
@@ -167,7 +167,7 @@ An investment that appears profitable under current assumptions may therefore be
 
 ---
 
-# 📊 KPI Alignment
+# KPI Alignment
 
 The investment decision was also connected to the company's performance indicators.
 
@@ -190,7 +190,7 @@ This ensures that capital investment decisions ultimately translate into **measu
 
 ---
 
-# 🧠 Key Lessons From the Project
+# Key Lessons From the Project
 
 One of my biggest takeaways from this project is that:
 
@@ -215,7 +215,7 @@ These are the questions that transform financial analysis into **strategic finan
 
 ---
 
-# 🛠 Skills Demonstrated
+# Skills Demonstrated
 
 This project strengthened and demonstrated my capabilities in:
 
@@ -266,7 +266,7 @@ This project strengthened and demonstrated my capabilities in:
 
 ---
 
-# 💡 Business Value
+# Business Value
 
 For **CFOs**, this project demonstrates my ability to support capital allocation and provide structured, risk-aware financial recommendations.
 
@@ -278,7 +278,7 @@ For **business owners and executives**, it demonstrates my ability to connect fi
 
 ---
 
-## 🚀 My Approach to Financial Analysis
+## My Approach to Financial Analysis
 
 I believe financial analysts should do more than explain **what happened**.
 
@@ -287,12 +287,6 @@ We should help management understand:
 > **What is happening? Why is it happening? What could happen next? What are the risks? And what should we do about it?**
 
 That is the approach I applied throughout this capital investment project.
-
----
-
-### Project Focus
-
-**Capital Investment Analysis | Corporate Finance | Financial Modelling | Risk Management | Capital Budgeting | Value at Risk | Strategic Finance | KPI Analysis | Executive Decision Support**
 
 ---
 
