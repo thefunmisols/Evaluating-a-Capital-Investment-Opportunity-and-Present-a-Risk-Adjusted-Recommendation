@@ -3,7 +3,7 @@ This project simulates a real corporate capital allocation decision to build my 
 
 This is a project on Evaluating a Capital Investment Opportunity and Presenting a Risk-Adjusted Recommendation
 
-# Step 1: Calculated Annual Operating Profit
+# Step 1: Calculated the Annual Operating Profit
 
 Firstly, For each option(Option A and Option B) in the table format below, I calculated 
 
@@ -11,13 +11,13 @@ Firstly, For each option(Option A and Option B) in the table format below, I cal
 
 
 
-# Step 2: Created Investment Comparison Table
+# Step 2: Created the Investment Comparison Table
 
 I recreated the required investment comparison table using the calculated values for operating profit and ensured the values were clearly labeled and logically consistent.
 
 
 
-# Step 3: Develop Risk Matrix Summary
+# Step 3: Developed a Risk Matrix Summary
 
 I created a short qualitative risk matrix description addressing:
 
@@ -29,7 +29,7 @@ Operational Risk
 
 I classified each option as Low, Moderate, or High in each category and briefly justified it below;
 
-# Step 4: Write Executive Recommendation Brief
+# Step 4: Wrote the Executive Recommendation Brief
 Write a 350–400 word recommendation addressed to the CFO.
 
 Your brief must:
@@ -45,7 +45,7 @@ Align with company KPIs
 Recommend one option clearly
 
 # Step 5: KPI & Economic Signal Explanation
-In 200 words, explain:
+In 200 words, I explained the following:
 
 How rising interest rates may impact each option
 
@@ -53,27 +53,25 @@ Which KPIs are most affected by the decision
 
 Why economic conditions matter in capital budgeting
 
-TIPS FOR SUCCESS
+**IMPORTANT NOTES**
 
-Compare both return and risk
+I compared both return and risk
 
-Do not focus only on revenue
+I made sure not to focus only on revenue
 
-Use VaR to explain downside exposure
+I Used VaR(Value at risk) to explain downside exposure
 
-Align recommendation to company priorities
+I aligned recommendations to company priorities
 
-COMMON PITFALLS
+I made sure not to ignore inflation impact
 
-Ignoring inflation impact
+I recommended the highest revenue and gave a risk analysis in addition to it
 
-Recommending highest revenue without risk analysis
+The descriptive summary carried enough justification for the recommendation
 
-Writing descriptive summary without justification
+I made sure not to forget KPI alignment
 
-Forgetting KPI alignment
-
-
+# SKILLS GAINED
 
 
 
