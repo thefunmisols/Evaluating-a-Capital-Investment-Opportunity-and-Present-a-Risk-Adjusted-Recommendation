@@ -32,19 +32,19 @@ I classified each option as Low, Moderate, or High in each category and briefly 
 <img width="1358" height="636" alt="nah" src="https://github.com/user-attachments/assets/9205331c-7271-4d60-81da-2e6fb35559c1" />
 
 # Step 4: Wrote the Executive Recommendation Brief
-Write a 350–400 word recommendation addressed to the CFO.
+I wrote a 350–400 word recommendation addressed to the CFO.
 
-Your brief must:
+In my brief, I considered the following:
 
-Compare financial return
+Compared financial return
 
-Discuss risk exposure
+Discussed risk exposure
 
-Reference economic conditions
+Referenced economic conditions
 
-Align with company KPIs
+Aligned with company KPIs
 
-Recommend one option clearly
+Recommended one option clearly
 
 <img width="1366" height="642" alt="twe" src="https://github.com/user-attachments/assets/0ba101e3-9c92-4c24-b301-7bc5f51fd0fb" />
 
@@ -57,7 +57,7 @@ Which KPIs are most affected by the decision
 
 Why economic conditions matter in capital budgeting
 
-
+<img width="957" height="480" alt="kpi" src="https://github.com/user-attachments/assets/0a55c6a0-75bf-4fe9-a0e0-3d97e9fc750c" />
 
 **IMPORTANT NOTES**
 
